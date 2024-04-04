@@ -2,7 +2,7 @@
 
 
 
-[Demo of Snap Shot](https://yog9.github.io/SnapShot/)
+[Demo of Snap Shot](https)
 
 ![](/snapscout.png)
 

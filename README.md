@@ -2,8 +2,6 @@
 
 
 
-[Demo of Snap Shot](https)
-
 ![](/snapscout.png)
 
 ### Summary
